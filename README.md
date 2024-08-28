@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I'm a tech enthusiast and aspiring software engine
 
 ## How to Reach Me
 
-- 📷 Instagram: [https://www.instagram.com/mariahfzl/]
-- 💼 LinkedIn: [https://www.linkedin.com/in/mariah-azmir-faizal/]
+- 📷 Instagram: https://www.instagram.com/mariahfzl/
+- 💼 LinkedIn: https://www.linkedin.com/in/mariah-azmir-faizal/
 
 ## Let's Collaborate!
 
