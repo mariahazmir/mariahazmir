@@ -1,28 +1,27 @@
 # Hi, I'm @mariahazmir 👋
 
-Welcome to my GitHub profile! I'm a tech enthusiast and aspiring software engineer with a passion for innovation, AI, and cybersecurity.
+Welcome to my GitHub profile! I'm a tech enthusiast with a knack for innovation, diving deep into AI and cybersecurity, all while aspiring to become a software engineer.
 
 ## About Me
 
-- 🎓 Currently studying at the University of Nottingham Malaysia.
-- 🛠️ I love working on projects that solve real-world problems.
-- 🌱 I’m a PETRONAS scholar, excited about the future and looking forward to contributing to the company's growth.
-- ⚡ Fun fact: I took CS50x and CS50 Python!
+- 🎓 Currently honing my skills at the University of Nottingham Malaysia.
+- 🛠️ Passionate about creating tech solutions that make a real-world impact.
+- 🌱 Proud PETRONAS scholar, eagerly anticipating the journey ahead and contributing to the company's growth.
+- ⚡ Fun fact: I’ve completed CS50x and CS50 Python—talk about an intense love for coding!
 
 ## What I’m Working On
 
-- 🖥️ Currently taking CS50 AI!
-- 🏎️ Active member of the F1 in Schools community.
-- 📚 Foundation in Engineering student.
+- 🖥️ Tackling the challenges of CS50 AI, one line of code at a time!
+- 🏎️ Engaged in the F1 in Schools community, where tech meets speed.
+- 📚 Currently pursuing a Foundation in Engineering, with my sights set on software engineering.
 
 ## How to Reach Me
 
-- 📷 Instagram: https://www.instagram.com/mariahfzl/
-- 💼 LinkedIn: https://www.linkedin.com/in/mariah-azmir-faizal/
+- 📷 Instagram: [@mariahfzl](https://www.instagram.com/mariahfzl/)
+- 💼 LinkedIn: [Mariah Azmir Faizal](https://www.linkedin.com/in/mariah-azmir-faizal/)
 
 ## Let's Collaborate!
 
-I'm always open to new opportunities and collaborations. If you're interested in working together on a project or just want to chat about tech, feel free to reach out!
+I’m always on the lookout for exciting projects and innovative collaborations. Whether you're looking to partner on a new venture or just want to geek out about tech, I’d love to connect!
 
-Thanks for stopping by, and let's connect to make exciting things happen!
-
+Thanks for visiting, and let’s create something awesome together!
