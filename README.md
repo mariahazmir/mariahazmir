@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a tech enthusiast and aspiring software engine
 - 🎓 Currently studying at the University of Nottingham Malaysia.
 - 🛠️ I love working on projects that solve real-world problems.
 - 🌱 I’m a PETRONAS scholar, excited about the future and looking forward to contributing to the company's growth.
-- 💬 I'm passionate about sharing knowledge and mentoring the next generation of tech innovators.
 - ⚡ Fun fact: I took CS50x and CS50 Python!
 
 ## What I’m Working On
