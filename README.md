@@ -1,6 +1,6 @@
 # Hi, I'm @mariahazmir 👋
 
-Welcome to my GitHub profile! I'm a tech enthusiast with a knack for innovation, diving deep into AI and cybersecurity, all while aspiring to become a software engineer.
+Welcome to my GitHub profile! I'm a tech enthusiast with a knack for innovation, diving deep into AI and automotives, all while aspiring to become a software engineer.
 
 ## About Me
 
