@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a knack for innovation,
 
 - 🖥️ Tackling the challenges of CS50 AI, one line of code at a time!
 - 🏎️ Engaged in the F1 in Schools community, where tech meets speed.
-- 📚 Currently pursuing a Foundation in Engineering, with my sights set on Computer Science.
+- 📚 Currently pursuing a Foundation in Engineering, with my sights set on Computer Science with AI.
 
 ## How to Reach Me
 
