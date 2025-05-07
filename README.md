@@ -4,16 +4,9 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a knack for innovation,
 
 ## About Me
 
-- 🎓 Currently honing my skills at the University of Nottingham Malaysia.
+- 🎓 Currently studying at the University of Nottingham Malaysia.
 - 🛠️ Passionate about creating tech solutions that make a real-world impact.
 - 🌱 Proud PETRONAS scholar, eagerly anticipating the journey ahead and contributing to the company's growth.
-- ⚡ Fun fact: I’ve completed CS50x and CS50 Python!
-
-## What I’m Working On
-
-- 🖥️ Tackling the challenges of CS50 AI, one line of code at a time!
-- 🏎️ Engaged in the F1 in Schools community, where tech meets speed.
-- 📚 Currently pursuing a Foundation in Engineering, with my sights set on Computer Science with AI.
 
 ## How to Reach Me
 
